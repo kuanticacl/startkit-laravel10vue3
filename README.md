@@ -13,7 +13,7 @@ Este es un startkit para desarrollar aplicaciones web modernas utilizando [Larav
 Para comenzar, clona este repositorio y navega al directorio del proyecto:
 
 ```
-git clone https://github.com/kuanticacl/startkit-laravel10-vue3-bootstrap
+git clone https://github.com/kuanticacl/startkit-laravel10vue3
 cd startkit-laravel10-vue3-bootstrap
 ```
 
